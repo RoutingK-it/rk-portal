@@ -29,11 +29,11 @@ Reach out to the maintainer at one of the following places:
 
 
 ## Security
-Please see [SECURITY](https://github.com/RoutingK-it/rk-portal/blob/main/SECURITY.md) for details.
+Please see [SECURITY](https://github.com/RoutingK-it/rk-portal?tab=security-ov-file) for details.
 
 
 ## License
-RoutingK.it © 2024 by Dennis de Houx is licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/?ref=chooser-v1)
+RoutingK.it © 2024 by Dennis de Houx is licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/?ref=chooser-v1) & [LICENSE](https://github.com/RoutingK-it/rk-portal?tab=License-1-ov-file)
 
 
 ## Authors

@@ -10,15 +10,15 @@
 
 
 ## Upgrading
-Please see [UPGRADING](https://github.com/RoutingK-it/rk-portal/UPGRADING.md) for details.
+Please see [UPGRADING](https://github.com/RoutingK-it/rk-portal/blob/main/UPGRADING.md) for details.
 
 
 ## Changelog
-Please see [CHANGELOG](https://github.com/RoutingK-it/rk-portal/CHANGELOG.md) for more information about recent changes.
+Please see [CHANGELOG](https://github.com/RoutingK-it/rk-portal/blob/main/CHANGELOG.md) for more information about recent changes.
 
 
 ## Contributing
-Please see [CONTRIBUTING](https://github.com/RoutingK-it/.github/CONTRIBUTING.md) for details.
+Please see [CONTRIBUTING](https://github.com/RoutingK-it/.github/blob/main/CONTRIBUTING.md) for details.
 
 
 ## Support
@@ -29,7 +29,7 @@ Reach out to the maintainer at one of the following places:
 
 
 ## Security
-Please see [SECURITY](https://github.com/RoutingK-it/.github/SECURITY.md) for details.
+Please see [SECURITY](https://github.com/RoutingK-it/.github/blob/main/SECURITY.md) for details.
 
 
 ## License
@@ -37,9 +37,9 @@ RoutingK.it © 2024 by Dennis de Houx is licensed under [CC BY-NC-SA 4.0](https:
 
 
 ## Authors
-Please see [AUTHORS](https://github.com/RoutingK-it/rk-portal/AUTHORS) for details.
+Please see [AUTHORS](https://github.com/RoutingK-it/rk-portal/blob/main/AUTHORS) for details.
 
 
 ## Acknowledgements
-Thanks for these awesome resources that were used during the development of the Bird2 Toolkit:
+Thanks for these awesome resources that were used during the development of RoutingK.it:
 - <add external projects>

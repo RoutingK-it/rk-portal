@@ -29,7 +29,7 @@ Reach out to the maintainer at one of the following places:
 
 
 ## Security
-Please see [SECURITY](https://github.com/RoutingK-it/.github/blob/main/SECURITY.md) for details.
+Please see [SECURITY](https://github.com/RoutingK-it/rk-portal/blob/main/SECURITY.md) for details.
 
 
 ## License
